@@ -10,6 +10,7 @@ Junior Web Developer
 * jQuery
 * BootStrap
 * React & Redux
+* SQL
 * Node.js
 
 # Professional Attributes
