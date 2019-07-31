@@ -1,7 +1,7 @@
 import config from '../scripts/components/config'
 export const style1 = `/**
  *
- * Hey. My name is Mingxuan Liu. I am willing to start career as the Junior Web Developer.
+ * Hey. My name is Mingxuan Liu. I am willing to start my career as the Junior Web Developer.
  *
  * Here is my resume.
  *
@@ -138,11 +138,8 @@ export const style2 = `/**
 /**
  * Okey, this is almost done.
  *
- * This page is inspired by http://strml.net/， which was what I met when I was a beginner of JS.
  *
- * It is really surprise me, and now I can code it by my self.
- *
- * Thank you for watching!
+ * Thank you very much for watching.
  *
  *
  */`
