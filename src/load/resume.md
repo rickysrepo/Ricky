@@ -1,37 +1,39 @@
-# Career Objective
+# Skills
 
-Junior Web Developer
-
-# Availability
-
-* HTML5
-* CSS3
-* JavaScript (ES5/ES6)
-* jQuery
-* BootStrap
-* React & Redux
-* Node.js
+* Languages: HTML5, CSS/SCSS/TailwindCSS, JavaScript/TypeScript
+* Frontend: React/Next.js, Angular, Jquery
+* Backend: Node.js/Express.js
+* Tools & Others: Vite/Webpack, MongoDB/MySQL, Git, Figma, Jira
 
 # Professional Attributes
 
-* Strong Knowledge Background
-* Methodical
-* Solution Focused
-* Teamwork First
-* Goal Orientated
-* Work Under Pressure
-* Confident
+* Strong problem-solving skills
+* Teamwork
+* Time management
+* Communication
+* Learning agility
 
 # Work Experience
 
-* THE UNIVERSITY OF AUCKLAND - JUNIOR RPA DEVELOPER (Intern)
+**Front-end Developer (Nov 2019 – Jun 2024)**  
+PHQ Studios Limited, Auckland, New Zealand
 
-# Demo Online
+**Machine Learning Developer Intern (Jul 2018 – Dec 2018)**  
+Centre of Digital Enterprise (CODE), University of Auckland
 
-* [CSS_staticLayout](https://iamverydiao.github.io/fixed_page_layout/tryweb.html)
-* [React&Redux_shoppingCart](https://iamverydiao.github.io/shopping_cart/demo.html)
-* [React_palette](https://iamverydiao.github.io/palette/demo.html)
-* [React_counter](https://iamverydiao.github.io/counter/demo.html)
+# Education
 
+**Master of Information Technology (Jul 2017 – May 2019)**  
+The University of Auckland, Auckland, New Zealand
 
+**Bachelor of Information Technology (Sep 2015 – Dec 2016)**  
+Auckland Institute of Studies, Auckland, New Zealand
 
+# Visa Status
+
+New Zealand Resident Visa (permanent)
+
+# Contact
+
+Email: lmx244620@gmail.com  
+Mobile: +64 20 4522 220

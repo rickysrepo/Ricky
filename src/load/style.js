@@ -1,7 +1,7 @@
 import config from '../scripts/components/config'
 export const style1 = `/**
  *
- * Hey. My name is Mingxuan Liu. I am willing to start my career as the Junior Web Developer.
+ * Hi, my name is Mingxuan(Ricky) Liu.
  *
  * Here is my resume.
  *

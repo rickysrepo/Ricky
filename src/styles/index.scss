@@ -1,4 +1,4 @@
-@import "prism";
+@use "prism";
 
 html, body {
   height: 100%;
@@ -55,3 +55,6 @@ body {
   }
 }
 
+p {
+  margin-bottom: 1em;
+}

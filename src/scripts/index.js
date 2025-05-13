@@ -6,7 +6,7 @@ import {loadMd, skipMd} from './components/loadMd'
 import endAnimate from './components/endAnimate'
 
 import {style1, style2} from "../load/style"
-import {resume} from '../load/resume'
+import resume from '../load/resume.md'
 
 
 let skipBtn = document.querySelector('#skip-btn')
