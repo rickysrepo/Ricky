@@ -3,7 +3,7 @@
 * Languages: HTML5, CSS/SCSS/TailwindCSS, JavaScript/TypeScript
 * Frontend: React/Next.js, Angular, Jquery
 * Backend: Node.js/Express.js
-* Tools & Others: Vite/Webpack, MongoDB/MySQL, Git, Figma, Jira
+* Tools & Others: Vite/Webpack, MongoDB/MySQL, Git, Vercel, Figma, Jira
 
 # Professional Attributes
 
