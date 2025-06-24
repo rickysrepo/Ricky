@@ -1,8 +1,8 @@
 # Skills
 
 - Languages: HTML5, CSS/SCSS, JavaScript/TypeScript
-- Frameworks: React, Next.js, Angular, Jquery, Tailwind CSS
-- Backend & Database: Node.js, Express.js, MongoDB, MySQL
+- Frontend Technologies: React，Angular, Next.js, Jquery, Tailwind CSS
+- Backend & Database: Node.js, Nestjs, MongoDB, PostgreSQL, MySQL
 - Tools & Others: Vite, Webpack, Git, Vercel, Figma, Jira
 
 # Professional Attributes
@@ -14,6 +14,9 @@
 - Learning agility
 
 # Work Experience
+
+**Full-Stack Developer (Aug 2024 – Present)**<br>
+Remote - Client Projects
 
 **Front-end Developer (Nov 2019 – Jun 2024)**<br>
 PHQ Studios Limited, Auckland, New Zealand
