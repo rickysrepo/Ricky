@@ -1,24 +1,22 @@
+# Portfolio
+
+- [**Media Design School**](https://www.mediadesignschool.com/)
+- [**The Inter-Yeti**](https://theinteryeti.govt.nz/)
+- [**Bright Panda**](https://bright-panda.vercel.app/)
+
 # Skills
 
-- Languages: HTML5, CSS/SCSS, JavaScript/TypeScript
-- Frontend Technologies: React，Angular, Next.js, Jquery, Tailwind CSS
-- Backend & Database: Node.js, Nestjs, MongoDB, PostgreSQL, MySQL
-- Tools & Others: Vite, Webpack, Git, Vercel, Figma, Jira
-
-# Professional Attributes
-
-- Strong problem-solving skills
-- Teamwork
-- Time management
-- Communication
-- Learning agility
+- Languages: HTML5, CSS/SCSS/Tailwind CSS, JavaScript/TypeScript
+- Frontend Frameworks: React/Next.js，Angular, Jquery
+- Backend & Database: Node.js/NestJs, MongoDB, PostgreSQL, MySQL
+- Tools & Others: Vite/Webpack, Git, Vercel, Docker, Figma, Jira
 
 # Work Experience
 
 **Full-Stack Developer (Aug 2024 – Present)**<br>
 Remote - Client Projects
 
-**Front-end Developer (Nov 2019 – Jun 2024)**<br>
+**Front-end Developer (Nov 2019 – Jul 2024)**<br>
 PHQ Studios Limited, Auckland, New Zealand
 
 **Machine Learning Developer Intern (Jul 2018 – Dec 2018)**<br>
@@ -34,7 +32,7 @@ Auckland Institute of Studies, Auckland, New Zealand
 
 # Visa Status
 
-New Zealand Resident Visa (No work restrictions)
+New Zealand Resident Visa
 
 # Contact
 
